@@ -1,0 +1,721 @@
+﻿ID_Cliente,Nome,Bairro,Canal_Aquisicao,Faixa_Etaria,Data_Cadastro
+C0001,Sabrina Lima,Bela Vista,Indicação,55+,2025-08-27
+C0002,Thiago Lima,Jardim Europa,Instagram,35-44,2025-07-22
+C0003,Yasmin Carvalho,Vila Nova,iFood,25-34,2025-11-20
+C0004,Larissa Teixeira,Bela Vista,Google,55+,2025-09-23
+C0005,William Almeida,Centro,Indicação,55+,2025-09-25
+C0006,André Oliveira,Centro,Indicação,25-34,2025-07-01
+C0007,Bianca Pereira,Jardim Primavera,iFood,25-34,2026-04-02
+C0008,Eduarda Ribeiro,Jardim Primavera,Indicação,18-24,2025-03-02
+C0009,Sabrina Ribeiro,Santa Rita,iFood,35-44,2026-09-22
+C0010,Felipe Costa,Jardim América,iFood,45-54,2025-05-12
+C0011,Vinícius Almeida,Centro,Instagram,55+,2025-06-19
+C0012,Marcos Costa,Santa Rita,Instagram,35-44,2026-02-01
+C0013,André Carvalho,Jardim Primavera,iFood,35-44,2026-02-05
+C0014,André Souza,Jardim América,Panfleto,35-44,2026-01-11
+C0015,Marcos Rocha,Vila Industrial,iFood,18-24,2025-12-03
+C0016,Thiago Carvalho,Bela Vista,Instagram,25-34,2025-02-28
+C0017,Mariana Gomes,Bela Vista,Google,25-34,2025-04-14
+C0018,Rafael Ribeiro,Jardim Primavera,Panfleto,45-54,2026-02-11
+C0019,Ana Silva,Jardim América,iFood,18-24,2025-02-16
+C0020,Renata Oliveira,Centro,Panfleto,25-34,2025-10-17
+C0021,André Araújo,Residencial Ipê,Instagram,55+,2025-04-17
+C0022,Marcos Pereira,Jardim Europa,Panfleto,35-44,2025-02-08
+C0023,Mariana Pereira,Jardim América,iFood,45-54,2025-11-07
+C0024,Rafael Lima,Parque das Flores,iFood,18-24,2025-09-24
+C0025,Fernanda Ribeiro,Bela Vista,Panfleto,35-44,2025-08-30
+C0026,William Ribeiro,Jardim Europa,iFood,35-44,2026-07-05
+C0027,Otávio Oliveira,Vila Nova,iFood,35-44,2026-06-10
+C0028,Letícia Lima,Vila Industrial,iFood,25-34,2025-10-30
+C0029,Yasmin Barbosa,Parque das Flores,Google,35-44,2025-05-29
+C0030,Gustavo Carvalho,Vila Industrial,Google,35-44,2026-08-31
+C0031,Thiago Almeida,Jardim Europa,Indicação,35-44,2025-06-22
+C0032,Letícia Teixeira,Centro,iFood,35-44,2025-06-07
+C0033,Marcos Pereira,São José,Instagram,25-34,2025-10-03
+C0034,Eduarda Araújo,Centro,iFood,45-54,2026-02-15
+C0035,Letícia Rodrigues,Santa Rita,Indicação,25-34,2026-06-21
+C0036,Gustavo Martins,Alto da Boa Vista,Instagram,35-44,2026-04-02
+C0037,Diego Rocha,Parque das Flores,Indicação,35-44,2025-03-16
+C0038,Felipe Santos,Vila Industrial,Instagram,35-44,2025-06-25
+C0039,Pedro Gomes,Bela Vista,Instagram,25-34,2025-09-28
+C0040,Felipe Moreira,Parque das Flores,Indicação,25-34,2025-03-16
+C0041,Priscila Rocha,Centro,Google,25-34,2025-11-08
+C0042,João Rocha,Alto da Boa Vista,iFood,35-44,2025-07-29
+C0043,Felipe Martins,São José,Indicação,55+,2026-04-23
+C0044,Vanessa Ferreira,Santa Rita,iFood,18-24,2025-09-29
+C0045,Leonardo Silva,Bela Vista,iFood,18-24,2026-06-26
+C0046,Otávio Teixeira,Jardim Europa,Indicação,25-34,2025-08-24
+C0047,Natália Araújo,Vila Nova,Indicação,25-34,2025-09-04
+C0048,Larissa Araújo,Jardim América,Instagram,35-44,2026-05-03
+C0049,Vinícius Almeida,Centro,Instagram,35-44,2026-09-15
+C0050,Gustavo Dias,Bela Vista,Panfleto,18-24,2026-09-03
+C0051,Rafael Pereira,Santa Rita,Indicação,18-24,2026-06-27
+C0052,Bianca Gomes,Jardim América,Panfleto,45-54,2025-11-23
+C0053,Bruno Santos,Jardim Europa,iFood,45-54,2025-04-02
+C0054,Natália Gomes,Jardim América,Panfleto,18-24,2026-05-02
+C0055,Bianca Moreira,Centro,Google,18-24,2026-03-08
+C0056,Rodrigo Ferreira,Parque das Flores,Google,18-24,2025-09-18
+C0057,Priscila Martins,São José,Google,35-44,2026-09-28
+C0058,Juliana Martins,São José,iFood,18-24,2026-07-24
+C0059,Letícia Lima,Jardim América,Instagram,18-24,2026-08-23
+C0060,Felipe Rodrigues,Santa Rita,Indicação,45-54,2025-10-20
+C0061,Carla Martins,Santa Rita,Instagram,35-44,2026-04-02
+C0062,Otávio Ferreira,Residencial Ipê,Indicação,35-44,2025-09-03
+C0063,Leonardo Rocha,Santa Rita,iFood,45-54,2026-02-04
+C0064,João Araújo,Alto da Boa Vista,iFood,18-24,2026-09-06
+C0065,Leonardo Barbosa,Centro,Google,35-44,2025-04-16
+C0066,Bruno Souza,Centro,Instagram,35-44,2025-12-22
+C0067,Larissa Teixeira,Centro,iFood,35-44,2025-01-26
+C0068,Ana Oliveira,Vila Nova,Instagram,18-24,2025-05-19
+C0069,Renata Costa,Jardim América,Google,55+,2025-10-27
+C0070,Mariana Oliveira,Vila Industrial,Panfleto,35-44,2025-10-11
+C0071,Leonardo Martins,Jardim América,Google,25-34,2025-03-11
+C0072,Gustavo Araújo,Jardim Primavera,Google,18-24,2025-07-13
+C0073,Juliana Dias,Residencial Ipê,Instagram,35-44,2025-09-03
+C0074,Renata Souza,Jardim Primavera,Instagram,55+,2025-11-30
+C0075,Rafael Dias,Vila Industrial,iFood,18-24,2025-12-21
+C0076,Priscila Ferreira,Santa Rita,iFood,55+,2025-04-30
+C0077,Eduarda Dias,Jardim Primavera,Instagram,25-34,2025-10-02
+C0078,Juliana Rodrigues,Jardim América,Google,25-34,2026-06-09
+C0079,Gabriel Silva,Vila Nova,iFood,18-24,2026-07-21
+C0080,Priscila Almeida,Jardim América,Instagram,18-24,2026-07-23
+C0081,André Dias,Jardim Europa,Instagram,25-34,2026-01-19
+C0082,Eduarda Lima,Centro,Instagram,25-34,2025-10-18
+C0083,Rodrigo Santos,Jardim Primavera,Instagram,45-54,2025-04-25
+C0084,Carla Costa,Alto da Boa Vista,Google,25-34,2025-07-06
+C0085,Fernanda Carvalho,Residencial Ipê,Indicação,18-24,2026-03-30
+C0086,Juliana Silva,Santa Rita,iFood,25-34,2025-08-25
+C0087,Beatriz Rodrigues,Parque das Flores,Indicação,25-34,2025-02-25
+C0088,Marcos Santos,Bela Vista,Panfleto,25-34,2025-04-22
+C0089,Thiago Martins,Jardim Primavera,Google,35-44,2026-03-29
+C0090,Yasmin Almeida,Jardim Europa,Instagram,55+,2026-07-30
+C0091,Mariana Ferreira,São José,Indicação,25-34,2025-03-10
+C0092,André Souza,Alto da Boa Vista,iFood,25-34,2025-02-03
+C0093,Eduarda Oliveira,Alto da Boa Vista,Panfleto,25-34,2026-09-04
+C0094,Igor Moreira,Centro,Google,25-34,2025-03-01
+C0095,Letícia Barbosa,Vila Nova,Indicação,45-54,2025-01-09
+C0096,João Santos,Vila Industrial,Instagram,45-54,2025-06-21
+C0097,Gustavo Teixeira,São José,Panfleto,18-24,2026-05-07
+C0098,Larissa Costa,Bela Vista,Instagram,25-34,2025-07-20
+C0099,Gabriel Ribeiro,São José,Instagram,25-34,2025-03-15
+C0100,Pedro Oliveira,Alto da Boa Vista,Indicação,25-34,2026-07-02
+C0101,Carla Rocha,Jardim América,Google,55+,2026-03-01
+C0102,André Costa,Residencial Ipê,Indicação,18-24,2026-10-02
+C0103,Rafael Costa,Alto da Boa Vista,iFood,55+,2025-07-14
+C0104,Gabriel Lima,Vila Nova,Panfleto,45-54,2025-09-28
+C0105,Natália Almeida,Jardim Europa,Indicação,45-54,2025-07-07
+C0106,Marcos Lima,Centro,Instagram,18-24,2026-09-20
+C0107,Larissa Rocha,Santa Rita,iFood,35-44,2025-04-17
+C0108,Fernanda Barbosa,São José,Instagram,18-24,2026-05-05
+C0109,Camila Lima,Centro,iFood,25-34,2026-03-13
+C0110,Natália Teixeira,Vila Industrial,Instagram,55+,2026-06-05
+C0111,Natália Souza,Jardim Primavera,Instagram,25-34,2026-01-20
+C0112,Fernanda Teixeira,Residencial Ipê,iFood,25-34,2025-05-26
+C0113,André Lima,Alto da Boa Vista,iFood,25-34,2025-02-08
+C0114,Vanessa Pereira,Jardim América,Panfleto,35-44,2026-04-28
+C0115,Letícia Lima,Alto da Boa Vista,Google,25-34,2025-05-30
+C0116,Igor Oliveira,São José,Indicação,25-34,2025-08-16
+C0117,Igor Almeida,Parque das Flores,iFood,45-54,2026-08-07
+C0118,Vanessa Rocha,São José,Instagram,18-24,2025-06-25
+C0119,Ana Carvalho,Jardim América,iFood,25-34,2026-06-23
+C0120,Bianca Carvalho,Centro,Instagram,25-34,2026-10-09
+C0121,Gustavo Moreira,Residencial Ipê,Panfleto,25-34,2025-07-16
+C0122,Mariana Souza,Jardim Europa,Instagram,25-34,2026-04-21
+C0123,Thiago Carvalho,Centro,Panfleto,55+,2026-10-21
+C0124,Fernanda Almeida,Residencial Ipê,Panfleto,45-54,2025-04-30
+C0125,Letícia Souza,Vila Nova,iFood,25-34,2025-07-11
+C0126,Bruno Costa,Centro,Google,55+,2025-09-01
+C0127,Gabriel Barbosa,Jardim Europa,iFood,35-44,2026-09-01
+C0128,João Araújo,Centro,Panfleto,35-44,2025-10-09
+C0129,Helena Araújo,Bela Vista,Instagram,25-34,2025-03-10
+C0130,Ana Carvalho,Vila Nova,iFood,25-34,2026-04-07
+C0131,Eduarda Martins,Santa Rita,Indicação,35-44,2025-10-15
+C0132,Rodrigo Costa,Bela Vista,Google,25-34,2026-02-09
+C0133,Paula Martins,Centro,Indicação,18-24,2026-06-09
+C0134,Felipe Rocha,Parque das Flores,Instagram,25-34,2026-06-03
+C0135,Juliana Lima,Bela Vista,iFood,35-44,2025-07-29
+C0136,Gustavo Lima,Residencial Ipê,Instagram,25-34,2025-09-27
+C0137,Aline Teixeira,Vila Industrial,iFood,55+,2026-02-06
+C0138,Natália Moreira,Jardim Primavera,Instagram,35-44,2026-07-08
+C0139,Lucas Moreira,Centro,iFood,25-34,2025-04-13
+C0140,Letícia Costa,Jardim Primavera,Indicação,35-44,2025-12-26
+C0141,Bianca Gomes,Vila Nova,Instagram,55+,2026-06-07
+C0142,Vanessa Araújo,Jardim Europa,Instagram,35-44,2025-04-28
+C0143,Vinícius Rodrigues,Centro,Panfleto,35-44,2026-07-11
+C0144,Vanessa Teixeira,Jardim Europa,Instagram,55+,2026-03-10
+C0145,Pedro Carvalho,Centro,Google,35-44,2026-05-01
+C0146,Bianca Rodrigues,Jardim Primavera,iFood,35-44,2025-12-23
+C0147,Igor Pereira,Jardim Primavera,Instagram,45-54,2025-12-15
+C0148,André Silva,Bela Vista,iFood,35-44,2026-02-27
+C0149,Eduarda Gomes,São José,Indicação,45-54,2026-08-01
+C0150,Rodrigo Costa,Bela Vista,Instagram,35-44,2025-01-16
+C0151,Kaique Lima,Bela Vista,iFood,35-44,2025-11-02
+C0152,Gabriel Ribeiro,Bela Vista,Instagram,18-24,2025-12-09
+C0153,Carla Dias,São José,iFood,55+,2025-06-08
+C0154,Carla Dias,Jardim Europa,iFood,25-34,2025-06-10
+C0155,Gabriel Almeida,Alto da Boa Vista,Indicação,25-34,2025-07-07
+C0156,Larissa Ribeiro,Vila Nova,Instagram,35-44,2025-09-05
+C0157,Gustavo Rocha,Centro,Google,25-34,2025-01-14
+C0158,Felipe Gomes,São José,Instagram,25-34,2026-04-27
+C0159,Pedro Oliveira,Centro,iFood,25-34,2026-02-28
+C0160,Eduarda Teixeira,São José,Instagram,55+,2026-05-03
+C0161,Marcos Souza,Santa Rita,iFood,35-44,2026-10-13
+C0162,Camila Martins,Bela Vista,iFood,25-34,2025-10-16
+C0163,Diego Martins,Parque das Flores,iFood,35-44,2025-07-26
+C0164,Gabriel Santos,Parque das Flores,Instagram,45-54,2026-01-29
+C0165,Carla Martins,Jardim Europa,iFood,18-24,2025-07-24
+C0166,Thiago Araújo,Centro,Panfleto,25-34,2025-07-07
+C0167,Letícia Ribeiro,Santa Rita,Indicação,35-44,2025-01-19
+C0168,Otávio Moreira,Centro,iFood,45-54,2026-07-05
+C0169,André Lima,Jardim América,Google,25-34,2025-08-20
+C0170,Pedro Ferreira,Centro,iFood,25-34,2026-07-26
+C0171,André Barbosa,Centro,iFood,35-44,2026-07-11
+C0172,Helena Souza,Centro,Instagram,35-44,2025-03-04
+C0173,Igor Gomes,Centro,Panfleto,35-44,2025-09-03
+C0174,Beatriz Almeida,Jardim Primavera,Instagram,45-54,2025-06-29
+C0175,Pedro Ribeiro,Centro,Indicação,25-34,2026-04-19
+C0176,Igor Lima,Jardim Europa,iFood,35-44,2025-06-13
+C0177,Natália Ribeiro,Residencial Ipê,Google,35-44,2025-11-16
+C0178,Beatriz Silva,Bela Vista,iFood,35-44,2025-12-21
+C0179,Paula Gomes,Vila Industrial,iFood,55+,2025-10-13
+C0180,Felipe Rodrigues,Jardim Europa,Instagram,25-34,2026-09-11
+C0181,William Rodrigues,Jardim América,Google,35-44,2026-03-27
+C0182,Letícia Teixeira,Alto da Boa Vista,Indicação,18-24,2025-01-12
+C0183,Lucas Teixeira,Jardim Primavera,Indicação,25-34,2025-12-03
+C0184,Felipe Silva,Alto da Boa Vista,Indicação,55+,2025-06-12
+C0185,Natália Santos,Vila Nova,iFood,35-44,2025-02-04
+C0186,Helena Ferreira,Jardim América,Instagram,18-24,2026-07-06
+C0187,William Rocha,São José,iFood,18-24,2026-08-01
+C0188,Bruno Rocha,Centro,Google,35-44,2025-11-15
+C0189,Beatriz Ferreira,Alto da Boa Vista,Panfleto,55+,2026-10-03
+C0190,Priscila Araújo,Jardim Primavera,Instagram,18-24,2026-01-07
+C0191,Igor Rocha,Vila Nova,iFood,55+,2026-09-11
+C0192,Lucas Gomes,Bela Vista,iFood,55+,2026-08-22
+C0193,Juliana Oliveira,Bela Vista,Panfleto,55+,2025-04-14
+C0194,Thiago Pereira,Vila Nova,Instagram,18-24,2025-07-30
+C0195,André Lima,Centro,Google,18-24,2025-06-08
+C0196,Vanessa Teixeira,Santa Rita,Google,55+,2026-07-06
+C0197,Bruno Lima,Centro,Panfleto,25-34,2025-09-16
+C0198,Juliana Oliveira,Vila Industrial,Instagram,45-54,2026-05-22
+C0199,Marcos Santos,Bela Vista,Indicação,25-34,2025-12-21
+C0200,Sabrina Rocha,Santa Rita,Google,55+,2025-07-14
+C0201,Letícia Ribeiro,Jardim Primavera,Instagram,35-44,2025-03-25
+C0202,Rafael Moreira,Centro,iFood,18-24,2025-10-27
+C0203,Renata Moreira,Alto da Boa Vista,iFood,45-54,2026-03-02
+C0204,Igor Costa,Alto da Boa Vista,iFood,25-34,2025-12-14
+C0205,Bianca Souza,Alto da Boa Vista,Instagram,25-34,2026-06-11
+C0206,Eduarda Ferreira,Jardim América,Indicação,18-24,2025-03-02
+C0207,Vanessa Almeida,Bela Vista,Instagram,25-34,2025-12-12
+C0208,João Almeida,Vila Industrial,Instagram,55+,2025-03-05
+C0209,Leonardo Moreira,Residencial Ipê,Indicação,35-44,2025-11-10
+C0210,Paula Rodrigues,Santa Rita,iFood,25-34,2025-11-02
+C0211,Fernanda Lima,Bela Vista,iFood,18-24,2025-05-18
+C0212,Pedro Ribeiro,Santa Rita,Indicação,25-34,2025-01-05
+C0213,Ana Barbosa,Jardim Europa,Instagram,35-44,2025-11-19
+C0214,Pedro Almeida,Vila Nova,Indicação,45-54,2025-10-24
+C0215,Bianca Santos,Jardim Europa,Instagram,25-34,2025-12-24
+C0216,Leonardo Souza,São José,iFood,25-34,2025-03-07
+C0217,Camila Lima,Centro,iFood,18-24,2025-02-03
+C0218,Priscila Ferreira,Parque das Flores,Indicação,45-54,2025-08-04
+C0219,Fernanda Rocha,Bela Vista,Instagram,45-54,2026-05-12
+C0220,Beatriz Martins,Parque das Flores,iFood,25-34,2026-02-09
+C0221,Lucas Carvalho,Bela Vista,iFood,25-34,2026-06-14
+C0222,Yasmin Costa,Alto da Boa Vista,iFood,25-34,2026-02-20
+C0223,Aline Almeida,Bela Vista,iFood,35-44,2025-07-11
+C0224,Letícia Dias,São José,Instagram,35-44,2025-10-19
+C0225,Rodrigo Rocha,Centro,Instagram,35-44,2025-04-01
+C0226,Fernanda Lima,Jardim América,Instagram,45-54,2025-01-29
+C0227,Rodrigo Rocha,Alto da Boa Vista,Panfleto,55+,2025-08-24
+C0228,João Almeida,Vila Nova,iFood,35-44,2025-10-22
+C0229,Bruno Oliveira,Centro,Instagram,35-44,2025-01-22
+C0230,Ana Almeida,Jardim Primavera,Instagram,45-54,2025-10-06
+C0231,Fernanda Pereira,Jardim Primavera,Indicação,18-24,2025-09-25
+C0232,Aline Teixeira,Jardim América,iFood,35-44,2025-11-03
+C0233,Bianca Teixeira,Santa Rita,Indicação,25-34,2025-11-01
+C0234,Yasmin Barbosa,Vila Nova,Instagram,25-34,2026-01-15
+C0235,Mariana Souza,Bela Vista,Indicação,18-24,2025-03-22
+C0236,Pedro Lima,Santa Rita,iFood,35-44,2025-08-27
+C0237,Fernanda Moreira,Jardim Europa,iFood,35-44,2025-03-03
+C0238,Thiago Lima,Vila Nova,Instagram,35-44,2025-10-01
+C0239,Marcos Teixeira,Jardim América,Instagram,18-24,2026-01-23
+C0240,Bruno Gomes,Bela Vista,Panfleto,55+,2025-10-17
+C0241,William Araújo,Jardim América,Panfleto,55+,2026-02-03
+C0242,Eduarda Araújo,Jardim Primavera,Instagram,25-34,2026-01-22
+C0243,Fernanda Silva,Jardim Primavera,Indicação,45-54,2026-06-16
+C0244,Sabrina Gomes,São José,iFood,18-24,2025-04-13
+C0245,Leonardo Lima,Jardim Europa,Instagram,25-34,2026-06-05
+C0246,Rafael Araújo,Centro,iFood,45-54,2026-01-01
+C0247,Igor Barbosa,Jardim Europa,Instagram,18-24,2025-10-07
+C0248,Matheus Ribeiro,Bela Vista,Instagram,18-24,2026-01-10
+C0249,Carla Pereira,Alto da Boa Vista,Instagram,25-34,2025-10-09
+C0250,Otávio Moreira,Santa Rita,iFood,45-54,2025-02-16
+C0251,Aline Teixeira,Santa Rita,Google,55+,2025-12-07
+C0252,Bruno Almeida,Bela Vista,Instagram,35-44,2025-06-24
+C0253,Kaique Teixeira,Vila Industrial,iFood,25-34,2026-04-04
+C0254,Paula Silva,Santa Rita,Instagram,25-34,2025-09-27
+C0255,Bianca Costa,Centro,Indicação,25-34,2026-09-26
+C0256,Bruno Barbosa,Vila Industrial,iFood,18-24,2025-01-31
+C0257,Rafael Ribeiro,Centro,iFood,35-44,2026-05-01
+C0258,Rodrigo Dias,Centro,Indicação,35-44,2026-09-19
+C0259,Priscila Silva,Jardim Europa,Indicação,45-54,2026-03-27
+C0260,Helena Almeida,São José,iFood,25-34,2025-03-13
+C0261,Vanessa Ribeiro,Santa Rita,Indicação,25-34,2026-10-02
+C0262,Larissa Lima,Jardim Europa,Indicação,18-24,2025-02-27
+C0263,Vinícius Silva,Bela Vista,Panfleto,45-54,2025-09-12
+C0264,Bruno Rocha,Jardim América,iFood,25-34,2025-05-01
+C0265,Thiago Gomes,São José,iFood,18-24,2025-11-13
+C0266,Vanessa Almeida,Jardim Primavera,Panfleto,25-34,2025-07-19
+C0267,Bianca Souza,Jardim Europa,Panfleto,25-34,2025-05-21
+C0268,Vanessa Rodrigues,Jardim Primavera,Google,25-34,2025-03-07
+C0269,Ana Lima,Jardim América,Indicação,35-44,2025-06-02
+C0270,Larissa Dias,Alto da Boa Vista,iFood,35-44,2025-10-19
+C0271,Helena Ferreira,Jardim Europa,Indicação,18-24,2026-03-04
+C0272,Beatriz Lima,Alto da Boa Vista,Indicação,55+,2026-03-16
+C0273,Sabrina Rocha,Jardim Primavera,iFood,25-34,2025-11-22
+C0274,Carla Silva,Jardim Europa,Indicação,25-34,2026-10-08
+C0275,Otávio Teixeira,Jardim Europa,Panfleto,45-54,2025-08-28
+C0276,Carla Ribeiro,Centro,Google,18-24,2026-04-26
+C0277,Eduarda Souza,Centro,Indicação,25-34,2025-10-14
+C0278,Fernanda Costa,Jardim Primavera,Indicação,25-34,2026-06-05
+C0279,Gabriel Gomes,Jardim Europa,Indicação,18-24,2026-05-22
+C0280,Eduarda Ferreira,Alto da Boa Vista,Google,25-34,2025-09-12
+C0281,Eduarda Dias,Alto da Boa Vista,Indicação,35-44,2026-01-24
+C0282,Leonardo Ferreira,Parque das Flores,Instagram,35-44,2025-03-15
+C0283,Mariana Lima,Jardim Primavera,iFood,45-54,2026-04-03
+C0284,Marcos Oliveira,Vila Industrial,Google,55+,2025-12-31
+C0285,Marcos Lima,Jardim Primavera,Instagram,35-44,2026-10-22
+C0286,Felipe Teixeira,Santa Rita,iFood,25-34,2025-04-07
+C0287,Thiago Barbosa,Jardim Primavera,Instagram,35-44,2025-05-31
+C0288,Helena Silva,Jardim Primavera,Panfleto,35-44,2026-04-03
+C0289,Felipe Almeida,Vila Nova,Instagram,18-24,2025-01-14
+C0290,Lucas Lima,São José,Panfleto,35-44,2026-03-12
+C0291,Camila Pereira,Parque das Flores,Instagram,25-34,2026-06-28
+C0292,Mariana Ribeiro,Bela Vista,Instagram,35-44,2026-02-15
+C0293,Camila Pereira,Bela Vista,Indicação,55+,2026-09-26
+C0294,Gustavo Pereira,Parque das Flores,iFood,25-34,2026-03-22
+C0295,Bruno Santos,São José,Panfleto,25-34,2026-06-13
+C0296,Camila Araújo,Bela Vista,Instagram,25-34,2025-01-30
+C0297,João Rodrigues,Jardim Primavera,Instagram,25-34,2026-04-09
+C0298,Marcos Araújo,São José,Indicação,18-24,2026-04-02
+C0299,Otávio Souza,São José,Instagram,25-34,2026-07-06
+C0300,Larissa Carvalho,Centro,iFood,35-44,2026-04-15
+C0301,Thiago Pereira,Bela Vista,iFood,25-34,2025-02-05
+C0302,João Souza,Vila Industrial,iFood,25-34,2026-01-25
+C0303,Lucas Rodrigues,Vila Industrial,Panfleto,55+,2025-11-27
+C0304,Aline Araújo,Centro,iFood,25-34,2026-05-10
+C0305,Marcos Dias,Jardim Primavera,Panfleto,35-44,2025-04-13
+C0306,Letícia Ferreira,Vila Nova,Instagram,25-34,2026-03-30
+C0307,Renata Dias,Bela Vista,Instagram,35-44,2026-07-13
+C0308,Camila Souza,Centro,Indicação,35-44,2025-10-27
+C0309,Larissa Martins,Jardim Europa,Instagram,18-24,2026-05-30
+C0310,Aline Oliveira,Parque das Flores,Panfleto,45-54,2026-04-17
+C0311,Diego Silva,Residencial Ipê,iFood,35-44,2025-01-29
+C0312,Renata Santos,Jardim América,Google,18-24,2025-08-17
+C0313,João Moreira,Centro,Instagram,25-34,2025-09-24
+C0314,Ana Araújo,Vila Industrial,iFood,25-34,2026-05-01
+C0315,Renata Carvalho,Vila Nova,Google,25-34,2026-10-03
+C0316,Fernanda Almeida,Jardim América,Indicação,25-34,2025-01-11
+C0317,Juliana Santos,Alto da Boa Vista,iFood,25-34,2026-04-04
+C0318,Rodrigo Silva,São José,Instagram,25-34,2026-03-29
+C0319,Gustavo Teixeira,Centro,Instagram,18-24,2026-10-16
+C0320,Sabrina Lima,Parque das Flores,Instagram,25-34,2025-03-25
+C0321,Ana Silva,Alto da Boa Vista,Instagram,35-44,2026-09-12
+C0322,André Ribeiro,Bela Vista,Indicação,45-54,2026-05-29
+C0323,Lucas Almeida,Bela Vista,iFood,25-34,2026-10-25
+C0324,Eduarda Ferreira,Jardim América,Instagram,35-44,2026-05-27
+C0325,Leonardo Ferreira,Jardim Primavera,Instagram,35-44,2026-05-08
+C0326,Yasmin Oliveira,Jardim Primavera,Instagram,55+,2025-09-08
+C0327,Larissa Ribeiro,Jardim Europa,Instagram,18-24,2025-08-27
+C0328,Gabriel Ferreira,Santa Rita,iFood,35-44,2026-03-22
+C0329,Beatriz Carvalho,Alto da Boa Vista,iFood,25-34,2026-04-27
+C0330,Sabrina Oliveira,Jardim América,Instagram,35-44,2026-05-09
+C0331,William Teixeira,Centro,iFood,18-24,2025-05-25
+C0332,Ana Araújo,Alto da Boa Vista,iFood,55+,2025-10-22
+C0333,Sabrina Silva,Jardim América,Instagram,35-44,2026-03-05
+C0334,Diego Oliveira,Jardim Europa,Instagram,18-24,2025-08-09
+C0335,Matheus Rocha,Centro,Instagram,25-34,2025-10-06
+C0336,Sabrina Gomes,Jardim América,Panfleto,25-34,2026-07-10
+C0337,Pedro Oliveira,Jardim Primavera,Instagram,35-44,2025-10-14
+C0338,André Rocha,São José,iFood,35-44,2025-06-10
+C0339,Gustavo Pereira,São José,Instagram,18-24,2025-06-13
+C0340,Matheus Martins,Vila Industrial,Instagram,25-34,2025-01-19
+C0341,Aline Oliveira,Jardim Europa,Instagram,35-44,2026-10-11
+C0342,Leonardo Carvalho,São José,Panfleto,35-44,2026-09-06
+C0343,William Moreira,Jardim Primavera,Instagram,45-54,2025-03-20
+C0344,André Rodrigues,Bela Vista,iFood,45-54,2025-09-08
+C0345,Camila Costa,Residencial Ipê,iFood,25-34,2025-01-26
+C0346,Vanessa Costa,Jardim Europa,Indicação,35-44,2025-07-29
+C0347,Lucas Dias,Centro,Google,25-34,2025-07-03
+C0348,Camila Lima,Centro,iFood,55+,2025-09-12
+C0349,Larissa Pereira,Jardim Europa,Instagram,25-34,2026-04-09
+C0350,Renata Santos,Residencial Ipê,Instagram,18-24,2025-05-25
+C0351,Lucas Lima,Centro,Google,35-44,2025-09-14
+C0352,Gabriel Lima,Parque das Flores,Instagram,35-44,2025-04-15
+C0353,André Moreira,Santa Rita,iFood,25-34,2025-02-03
+C0354,Sabrina Rodrigues,Bela Vista,Google,18-24,2026-03-18
+C0355,Yasmin Rodrigues,Residencial Ipê,Indicação,25-34,2025-08-18
+C0356,Helena Ferreira,São José,Indicação,45-54,2025-03-09
+C0357,Otávio Moreira,Santa Rita,iFood,18-24,2026-07-05
+C0358,Diego Lima,Jardim Europa,Instagram,35-44,2026-04-20
+C0359,Sabrina Pereira,Jardim Primavera,Instagram,18-24,2025-03-14
+C0360,Ana Oliveira,Jardim Europa,iFood,18-24,2026-02-17
+C0361,Lucas Lima,Jardim Europa,iFood,25-34,2025-01-17
+C0362,Letícia Barbosa,Jardim América,Indicação,45-54,2025-06-23
+C0363,Sabrina Silva,Alto da Boa Vista,Panfleto,25-34,2025-08-11
+C0364,Thiago Rodrigues,Jardim Europa,iFood,18-24,2025-01-02
+C0365,Kaique Ribeiro,Jardim América,Google,45-54,2025-09-13
+C0366,Juliana Lima,Vila Nova,Indicação,18-24,2026-02-19
+C0367,Vinícius Gomes,Jardim Primavera,Panfleto,35-44,2026-05-01
+C0368,Beatriz Ferreira,Jardim Europa,Instagram,55+,2025-08-30
+C0369,Kaique Pereira,Jardim América,iFood,55+,2026-08-02
+C0370,Rafael Rodrigues,Parque das Flores,iFood,55+,2026-04-08
+C0371,Paula Almeida,Parque das Flores,Google,25-34,2025-07-16
+C0372,Fernanda Araújo,Vila Nova,Indicação,18-24,2025-04-25
+C0373,Vanessa Martins,Centro,Indicação,18-24,2025-03-29
+C0374,Vinícius Martins,Jardim Europa,Indicação,45-54,2025-03-20
+C0375,Letícia Barbosa,Bela Vista,Google,18-24,2026-06-06
+C0376,Gabriel Ferreira,Jardim Primavera,Instagram,25-34,2026-07-10
+C0377,Vanessa Silva,Parque das Flores,Instagram,45-54,2025-05-10
+C0378,Igor Carvalho,Bela Vista,Google,18-24,2025-08-15
+C0379,Larissa Oliveira,Alto da Boa Vista,iFood,45-54,2025-01-12
+C0380,Larissa Araújo,Jardim Europa,iFood,18-24,2025-03-16
+C0381,Carla Costa,Jardim América,Instagram,25-34,2026-10-03
+C0382,Beatriz Oliveira,Vila Nova,Instagram,45-54,2025-08-13
+C0383,Natália Pereira,Centro,Instagram,18-24,2025-10-24
+C0384,Kaique Souza,Vila Nova,Panfleto,25-34,2025-12-09
+C0385,Gustavo Martins,Jardim Europa,Instagram,25-34,2025-11-18
+C0386,Aline Dias,Jardim América,Google,18-24,2026-07-29
+C0387,Diego Rodrigues,Centro,Google,25-34,2025-04-19
+C0388,Otávio Rocha,Jardim Europa,Panfleto,25-34,2025-04-25
+C0389,Felipe Almeida,Bela Vista,iFood,25-34,2025-01-20
+C0390,João Martins,Alto da Boa Vista,Instagram,25-34,2025-01-25
+C0391,Diego Gomes,São José,Indicação,18-24,2026-08-31
+C0392,Vanessa Lima,Centro,Instagram,18-24,2026-01-12
+C0393,Thiago Souza,Santa Rita,Indicação,25-34,2026-01-30
+C0394,Ana Lima,Jardim Primavera,Instagram,45-54,2025-02-26
+C0395,Renata Souza,Vila Nova,Instagram,45-54,2025-06-30
+C0396,Vanessa Carvalho,Centro,Google,25-34,2025-03-24
+C0397,Gabriel Araújo,Centro,Instagram,18-24,2025-11-18
+C0398,Paula Martins,Jardim Europa,iFood,45-54,2026-06-15
+C0399,André Carvalho,Jardim América,iFood,25-34,2026-01-26
+C0400,Vanessa Santos,Santa Rita,Google,55+,2025-11-23
+C0401,Felipe Moreira,Jardim América,iFood,35-44,2026-02-08
+C0402,Eduarda Rocha,Bela Vista,Instagram,35-44,2025-02-28
+C0403,William Ferreira,Jardim Primavera,Indicação,35-44,2026-10-17
+C0404,Diego Santos,Santa Rita,Indicação,25-34,2025-05-29
+C0405,Gabriel Silva,São José,Instagram,55+,2025-12-21
+C0406,Letícia Martins,Residencial Ipê,Instagram,45-54,2026-01-28
+C0407,Bruno Santos,Jardim Europa,Indicação,35-44,2025-10-06
+C0408,Letícia Souza,Jardim Primavera,Instagram,35-44,2025-01-20
+C0409,Camila Oliveira,Santa Rita,iFood,25-34,2025-11-25
+C0410,Thiago Dias,São José,Instagram,25-34,2026-07-21
+C0411,Camila Oliveira,Bela Vista,Instagram,18-24,2026-07-31
+C0412,Pedro Dias,Jardim América,Instagram,25-34,2025-02-08
+C0413,Beatriz Rodrigues,Santa Rita,Instagram,55+,2025-06-29
+C0414,Matheus Teixeira,São José,Indicação,45-54,2026-06-23
+C0415,Rafael Pereira,Jardim América,iFood,45-54,2025-04-29
+C0416,William Silva,Jardim América,Instagram,35-44,2026-04-05
+C0417,Fernanda Dias,Centro,Indicação,25-34,2025-06-13
+C0418,Natália Souza,Santa Rita,Instagram,45-54,2026-02-06
+C0419,Renata Martins,Alto da Boa Vista,Instagram,25-34,2026-05-30
+C0420,Bianca Almeida,Santa Rita,Instagram,25-34,2025-01-08
+C0421,Bianca Barbosa,Vila Nova,Instagram,35-44,2026-03-23
+C0422,Lucas Teixeira,São José,Indicação,18-24,2026-02-09
+C0423,Vinícius Gomes,Parque das Flores,Indicação,25-34,2026-10-08
+C0424,Leonardo Teixeira,Alto da Boa Vista,iFood,45-54,2026-02-11
+C0425,Natália Carvalho,Bela Vista,iFood,45-54,2025-10-25
+C0426,Aline Araújo,Vila Industrial,iFood,35-44,2026-08-03
+C0427,Gustavo Oliveira,Vila Nova,Panfleto,25-34,2026-06-13
+C0428,Diego Silva,Jardim Primavera,iFood,25-34,2025-12-21
+C0429,Letícia Teixeira,Jardim América,Panfleto,18-24,2025-11-12
+C0430,Vanessa Gomes,Vila Nova,Google,45-54,2026-07-08
+C0431,Helena Silva,Jardim Primavera,iFood,18-24,2025-04-27
+C0432,Matheus Oliveira,Vila Industrial,Panfleto,35-44,2025-12-22
+C0433,Rafael Costa,Parque das Flores,Google,45-54,2026-04-29
+C0434,Rodrigo Souza,São José,Instagram,45-54,2026-05-11
+C0435,André Oliveira,Bela Vista,Panfleto,25-34,2026-08-04
+C0436,Carla Dias,Santa Rita,Indicação,25-34,2026-06-29
+C0437,Eduarda Barbosa,Jardim América,iFood,55+,2025-11-05
+C0438,Helena Ribeiro,Jardim Primavera,iFood,45-54,2025-07-15
+C0439,Vinícius Gomes,Jardim Europa,Instagram,18-24,2026-03-07
+C0440,Thiago Gomes,Centro,iFood,55+,2026-07-29
+C0441,Eduarda Costa,Vila Nova,Instagram,25-34,2026-04-09
+C0442,Paula Costa,São José,iFood,45-54,2026-06-18
+C0443,Thiago Gomes,Alto da Boa Vista,iFood,25-34,2025-08-18
+C0444,Bianca Barbosa,Centro,iFood,25-34,2025-04-11
+C0445,João Souza,Centro,Google,55+,2025-02-02
+C0446,Igor Rocha,Centro,Panfleto,25-34,2026-05-24
+C0447,Otávio Rocha,Jardim Primavera,Instagram,55+,2025-05-23
+C0448,Matheus Rocha,Parque das Flores,iFood,25-34,2025-05-28
+C0449,Gabriel Lima,Jardim Primavera,Google,35-44,2026-02-17
+C0450,Kaique Oliveira,Santa Rita,Panfleto,45-54,2025-11-18
+C0451,João Souza,Alto da Boa Vista,iFood,35-44,2025-07-17
+C0452,Sabrina Carvalho,Bela Vista,iFood,25-34,2025-06-18
+C0453,Matheus Ferreira,Centro,Google,35-44,2025-05-23
+C0454,Paula Barbosa,Alto da Boa Vista,Indicação,25-34,2026-10-04
+C0455,Larissa Silva,Santa Rita,Instagram,35-44,2026-04-27
+C0456,Renata Rocha,Vila Nova,iFood,45-54,2026-04-16
+C0457,Carla Santos,Parque das Flores,Instagram,25-34,2026-01-30
+C0458,Vinícius Teixeira,Centro,Panfleto,45-54,2025-04-14
+C0459,Mariana Ferreira,Alto da Boa Vista,Instagram,35-44,2025-12-03
+C0460,Larissa Ferreira,Jardim Europa,iFood,45-54,2025-07-26
+C0461,Vanessa Ferreira,Jardim Primavera,iFood,18-24,2026-04-14
+C0462,Juliana Silva,Alto da Boa Vista,Google,35-44,2026-06-11
+C0463,Mariana Oliveira,Jardim Primavera,iFood,35-44,2025-06-09
+C0464,Rodrigo Souza,Centro,Instagram,25-34,2026-04-16
+C0465,Pedro Rodrigues,Jardim Primavera,Instagram,55+,2025-09-30
+C0466,Carla Ferreira,Centro,Panfleto,18-24,2025-10-02
+C0467,Letícia Barbosa,São José,iFood,35-44,2026-08-11
+C0468,Sabrina Moreira,Santa Rita,Instagram,25-34,2025-01-19
+C0469,Pedro Gomes,Jardim Europa,iFood,35-44,2025-08-29
+C0470,Bianca Teixeira,São José,Instagram,25-34,2026-03-19
+C0471,Vanessa Ferreira,Centro,Google,25-34,2025-10-10
+C0472,Leonardo Silva,Jardim Primavera,Indicação,25-34,2025-06-16
+C0473,Aline Rocha,Santa Rita,Panfleto,55+,2026-06-08
+C0474,Lucas Ferreira,Santa Rita,Google,45-54,2025-06-28
+C0475,Thiago Oliveira,Vila Nova,Google,18-24,2026-03-08
+C0476,Kaique Araújo,Bela Vista,Google,18-24,2026-06-01
+C0477,Aline Oliveira,Centro,Indicação,35-44,2025-04-01
+C0478,Fernanda Ferreira,Centro,iFood,25-34,2026-06-07
+C0479,Felipe Barbosa,Jardim Primavera,Instagram,25-34,2025-11-01
+C0480,Bianca Barbosa,Jardim América,Google,35-44,2026-06-08
+C0481,Kaique Souza,Parque das Flores,Panfleto,35-44,2026-01-18
+C0482,Matheus Barbosa,Centro,Google,45-54,2026-06-05
+C0483,Yasmin Santos,Jardim Europa,Panfleto,25-34,2025-11-20
+C0484,Rafael Silva,Santa Rita,Indicação,18-24,2025-09-06
+C0485,Rodrigo Rodrigues,Centro,iFood,25-34,2025-03-22
+C0486,Vanessa Moreira,Alto da Boa Vista,iFood,18-24,2026-10-14
+C0487,Thiago Souza,Centro,iFood,25-34,2025-03-31
+C0488,Felipe Ribeiro,Jardim Primavera,Panfleto,18-24,2026-01-20
+C0489,Fernanda Santos,Parque das Flores,Panfleto,25-34,2025-12-13
+C0490,Rafael Almeida,Vila Nova,Indicação,35-44,2025-09-18
+C0491,Otávio Gomes,Alto da Boa Vista,Instagram,18-24,2025-10-30
+C0492,Rafael Gomes,Alto da Boa Vista,Instagram,25-34,2025-09-13
+C0493,Felipe Oliveira,Bela Vista,iFood,35-44,2026-04-13
+C0494,Mariana Santos,Jardim Primavera,Instagram,25-34,2026-01-05
+C0495,Felipe Dias,Centro,Indicação,25-34,2026-02-17
+C0496,Otávio Gomes,Jardim Europa,iFood,18-24,2025-03-11
+C0497,Natália Ferreira,Centro,iFood,45-54,2026-07-21
+C0498,Vinícius Almeida,Jardim Primavera,Instagram,35-44,2026-08-07
+C0499,Gabriel Dias,Jardim Primavera,Instagram,35-44,2025-09-02
+C0500,Matheus Almeida,São José,Instagram,35-44,2026-06-21
+C0501,Bianca Silva,Parque das Flores,Indicação,25-34,2026-03-30
+C0502,Lucas Barbosa,Centro,Instagram,18-24,2025-04-02
+C0503,Juliana Oliveira,São José,iFood,25-34,2025-04-05
+C0504,André Araújo,Residencial Ipê,Instagram,25-34,2025-01-24
+C0505,Pedro Martins,Bela Vista,iFood,25-34,2025-05-03
+C0506,João Araújo,Jardim Primavera,iFood,25-34,2026-04-02
+C0507,Larissa Oliveira,Bela Vista,Instagram,35-44,2026-06-20
+C0508,Larissa Silva,Bela Vista,Indicação,35-44,2026-10-11
+C0509,Priscila Martins,Centro,Panfleto,35-44,2026-07-14
+C0510,Mariana Souza,Vila Industrial,Panfleto,55+,2026-04-23
+C0511,Bianca Ferreira,São José,Indicação,25-34,2026-04-15
+C0512,Rodrigo Araújo,Jardim América,Instagram,25-34,2025-12-07
+C0513,Natália Costa,Jardim América,Instagram,18-24,2025-12-16
+C0514,Pedro Pereira,Centro,iFood,45-54,2026-05-02
+C0515,Juliana Gomes,Jardim Primavera,Instagram,25-34,2025-07-22
+C0516,Pedro Moreira,Centro,Google,45-54,2025-06-09
+C0517,Beatriz Almeida,Jardim Europa,Indicação,25-34,2025-09-10
+C0518,Yasmin Barbosa,Centro,iFood,35-44,2025-09-07
+C0519,Vinícius Costa,São José,Indicação,45-54,2025-05-17
+C0520,William Dias,São José,Google,35-44,2026-04-23
+C0521,Sabrina Moreira,Residencial Ipê,Instagram,25-34,2025-09-28
+C0522,Felipe Costa,Vila Industrial,iFood,25-34,2025-09-01
+C0523,Leonardo Almeida,Parque das Flores,Panfleto,25-34,2026-05-09
+C0524,Diego Carvalho,Centro,Google,25-34,2026-05-11
+C0525,Lucas Ferreira,Vila Nova,iFood,35-44,2025-07-31
+C0526,Juliana Gomes,Jardim Europa,iFood,55+,2026-04-23
+C0527,Kaique Martins,Vila Nova,iFood,25-34,2026-03-27
+C0528,Larissa Souza,Bela Vista,Panfleto,35-44,2025-06-25
+C0529,Vinícius Barbosa,Residencial Ipê,Indicação,25-34,2026-10-09
+C0530,Helena Ferreira,São José,Instagram,55+,2026-08-03
+C0531,Yasmin Costa,Centro,Instagram,18-24,2025-07-15
+C0532,Marcos Rocha,Jardim Primavera,Instagram,35-44,2025-06-07
+C0533,João Dias,Parque das Flores,Indicação,35-44,2026-10-05
+C0534,Yasmin Santos,Bela Vista,iFood,25-34,2026-07-01
+C0535,Aline Moreira,Jardim Primavera,Instagram,25-34,2025-10-31
+C0536,Bianca Lima,Vila Nova,Instagram,18-24,2025-12-20
+C0537,Gustavo Barbosa,Santa Rita,iFood,45-54,2026-10-19
+C0538,Natália Ribeiro,Jardim América,Indicação,25-34,2025-05-15
+C0539,Renata Costa,São José,iFood,18-24,2025-11-06
+C0540,Letícia Pereira,Jardim Europa,Google,18-24,2025-12-13
+C0541,Aline Souza,Centro,Indicação,25-34,2026-05-01
+C0542,Vanessa Almeida,Vila Nova,Google,25-34,2026-01-11
+C0543,Thiago Dias,Jardim América,Google,25-34,2025-09-06
+C0544,Fernanda Carvalho,Bela Vista,iFood,25-34,2025-05-15
+C0545,Paula Gomes,Centro,iFood,18-24,2025-09-25
+C0546,Eduarda Silva,Jardim América,Instagram,25-34,2026-07-15
+C0547,Bruno Pereira,Centro,Instagram,35-44,2025-04-22
+C0548,Rafael Araújo,Vila Industrial,iFood,25-34,2025-11-14
+C0549,Vanessa Pereira,Jardim Europa,Instagram,18-24,2026-07-10
+C0550,Vinícius Souza,Jardim Europa,iFood,18-24,2026-10-09
+C0551,Carla Lima,Parque das Flores,Instagram,25-34,2025-12-01
+C0552,Letícia Teixeira,Santa Rita,Google,35-44,2025-11-17
+C0553,Aline Ferreira,Centro,Instagram,25-34,2025-11-14
+C0554,Marcos Carvalho,São José,iFood,55+,2025-12-18
+C0555,Vanessa Lima,Alto da Boa Vista,Google,55+,2026-08-31
+C0556,Thiago Ribeiro,Jardim Primavera,Indicação,25-34,2026-04-14
+C0557,Thiago Dias,Jardim Europa,iFood,25-34,2026-10-25
+C0558,Larissa Rocha,Santa Rita,iFood,18-24,2026-02-13
+C0559,Felipe Almeida,São José,Google,35-44,2025-03-02
+C0560,Igor Ribeiro,Centro,Instagram,25-34,2025-04-08
+C0561,Gabriel Souza,Centro,Indicação,25-34,2025-04-07
+C0562,Leonardo Gomes,Vila Industrial,Panfleto,35-44,2025-05-02
+C0563,Pedro Rodrigues,Santa Rita,iFood,35-44,2025-12-09
+C0564,Lucas Costa,São José,Google,25-34,2025-07-02
+C0565,Matheus Silva,Parque das Flores,iFood,25-34,2025-02-07
+C0566,Aline Souza,Bela Vista,Indicação,18-24,2026-08-24
+C0567,Eduarda Carvalho,Parque das Flores,Google,35-44,2025-11-06
+C0568,Kaique Carvalho,Alto da Boa Vista,Panfleto,55+,2026-09-12
+C0569,Gustavo Santos,São José,Google,25-34,2025-10-10
+C0570,Helena Moreira,São José,Indicação,45-54,2025-03-25
+C0571,Rodrigo Santos,Alto da Boa Vista,iFood,35-44,2025-10-11
+C0572,Aline Ribeiro,Centro,iFood,18-24,2025-09-27
+C0573,Eduarda Souza,Centro,Google,25-34,2026-06-16
+C0574,Priscila Santos,Parque das Flores,Indicação,45-54,2025-12-05
+C0575,William Martins,Vila Nova,Google,25-34,2025-12-14
+C0576,Diego Carvalho,Bela Vista,Panfleto,25-34,2026-06-20
+C0577,Matheus Santos,Santa Rita,Instagram,18-24,2026-05-25
+C0578,Priscila Rodrigues,Bela Vista,iFood,35-44,2026-03-26
+C0579,Helena Santos,Jardim Primavera,Google,45-54,2025-06-20
+C0580,Pedro Ferreira,Bela Vista,Indicação,45-54,2026-07-01
+C0581,Diego Santos,São José,iFood,25-34,2026-06-05
+C0582,Vanessa Dias,Jardim Primavera,Indicação,35-44,2026-05-13
+C0583,Carla Moreira,Parque das Flores,Instagram,35-44,2026-04-25
+C0584,André Oliveira,Jardim Primavera,Google,25-34,2025-01-22
+C0585,Letícia Carvalho,Jardim América,iFood,25-34,2025-10-09
+C0586,Ana Almeida,Vila Nova,Google,35-44,2026-08-07
+C0587,Ana Moreira,Centro,Panfleto,35-44,2025-04-16
+C0588,Kaique Ribeiro,Parque das Flores,Instagram,18-24,2025-04-28
+C0589,Fernanda Carvalho,Jardim Europa,Indicação,55+,2026-10-17
+C0590,Helena Gomes,Santa Rita,Instagram,35-44,2026-08-01
+C0591,Eduarda Ribeiro,Santa Rita,Instagram,18-24,2026-04-10
+C0592,Camila Martins,Parque das Flores,iFood,35-44,2026-09-29
+C0593,Otávio Gomes,Jardim Primavera,Google,18-24,2025-01-13
+C0594,Marcos Almeida,Vila Nova,Indicação,25-34,2026-07-10
+C0595,Camila Carvalho,São José,Panfleto,25-34,2026-01-28
+C0596,Larissa Oliveira,Jardim América,Indicação,45-54,2025-07-14
+C0597,João Dias,Centro,Google,25-34,2025-05-11
+C0598,Beatriz Araújo,Jardim Europa,iFood,35-44,2025-02-18
+C0599,Gustavo Costa,Centro,Indicação,18-24,2025-12-05
+C0600,Sabrina Almeida,Jardim Primavera,iFood,18-24,2025-02-18
+C0601,Igor Souza,Santa Rita,Indicação,25-34,2026-04-22
+C0602,André Barbosa,Jardim América,iFood,45-54,2026-02-17
+C0603,Thiago Almeida,Bela Vista,Instagram,25-34,2025-11-01
+C0604,Rafael Ribeiro,Alto da Boa Vista,Instagram,25-34,2025-04-23
+C0605,Paula Dias,Centro,iFood,25-34,2025-11-29
+C0606,Eduarda Pereira,Centro,Google,18-24,2025-06-25
+C0607,Igor Martins,Vila Nova,Indicação,25-34,2025-06-28
+C0608,André Martins,Jardim Europa,iFood,35-44,2025-06-24
+C0609,Gustavo Rodrigues,Alto da Boa Vista,iFood,45-54,2025-07-05
+C0610,Aline Martins,Vila Nova,Panfleto,25-34,2025-12-04
+C0611,Pedro Silva,Centro,Indicação,18-24,2026-01-06
+C0612,André Barbosa,Bela Vista,Google,18-24,2025-07-30
+C0613,Priscila Oliveira,Jardim Primavera,Indicação,25-34,2026-07-12
+C0614,Vanessa Costa,Jardim Primavera,Google,55+,2026-04-24
+C0615,Rodrigo Oliveira,Jardim Primavera,Instagram,55+,2025-07-22
+C0616,Paula Gomes,Jardim América,Instagram,45-54,2026-04-22
+C0617,Kaique Dias,Jardim Europa,iFood,25-34,2026-05-05
+C0618,Marcos Silva,Centro,iFood,25-34,2026-03-11
+C0619,Juliana Pereira,São José,Instagram,18-24,2025-03-11
+C0620,Thiago Ferreira,Santa Rita,Panfleto,25-34,2025-03-06
+C0621,Vinícius Carvalho,São José,Indicação,25-34,2025-10-09
+C0622,João Pereira,Santa Rita,Indicação,45-54,2025-09-07
+C0623,Leonardo Lima,Santa Rita,Panfleto,45-54,2026-01-31
+C0624,Thiago Almeida,Centro,Panfleto,35-44,2026-05-26
+C0625,Vanessa Souza,São José,Panfleto,55+,2025-11-17
+C0626,Helena Pereira,Jardim Primavera,Indicação,45-54,2025-02-14
+C0627,Eduarda Silva,Jardim América,Google,25-34,2026-07-20
+C0628,Rafael Lima,São José,iFood,45-54,2025-04-01
+C0629,Matheus Pereira,Santa Rita,iFood,25-34,2026-03-07
+C0630,Rodrigo Souza,São José,iFood,18-24,2025-05-07
+C0631,André Gomes,Jardim Primavera,Indicação,18-24,2026-06-28
+C0632,Vinícius Rocha,Bela Vista,Panfleto,25-34,2025-11-28
+C0633,Otávio Ferreira,Centro,Instagram,25-34,2026-04-19
+C0634,Beatriz Almeida,Bela Vista,iFood,18-24,2026-09-17
+C0635,Aline Silva,Vila Nova,Panfleto,45-54,2025-10-26
+C0636,Leonardo Santos,Jardim América,Indicação,45-54,2026-10-01
+C0637,Gustavo Carvalho,Vila Industrial,Indicação,45-54,2026-07-10
+C0638,Diego Silva,Vila Nova,iFood,45-54,2026-10-21
+C0639,André Araújo,Alto da Boa Vista,Instagram,35-44,2025-01-29
+C0640,Larissa Dias,Jardim América,Indicação,25-34,2025-04-23
+C0641,Camila Ribeiro,Centro,Instagram,25-34,2025-10-10
+C0642,João Carvalho,Alto da Boa Vista,Instagram,25-34,2026-01-13
+C0643,Vinícius Costa,Bela Vista,Instagram,35-44,2026-01-13
+C0644,William Araújo,Jardim América,Panfleto,18-24,2025-02-07
+C0645,Aline Dias,São José,iFood,55+,2026-07-27
+C0646,Camila Almeida,Jardim América,Instagram,18-24,2025-04-28
+C0647,Juliana Souza,Jardim América,Instagram,25-34,2025-12-12
+C0648,Beatriz Ribeiro,Santa Rita,Panfleto,25-34,2026-05-01
+C0649,Rodrigo Gomes,Residencial Ipê,iFood,35-44,2026-10-15
+C0650,Bruno Barbosa,Santa Rita,iFood,18-24,2025-10-21
+C0651,Juliana Almeida,Bela Vista,Indicação,35-44,2026-01-23
+C0652,Rodrigo Araújo,Jardim América,Indicação,35-44,2025-12-13
+C0653,Vinícius Ribeiro,Jardim Europa,iFood,35-44,2025-01-22
+C0654,Felipe Carvalho,Alto da Boa Vista,Indicação,25-34,2025-12-12
+C0655,Yasmin Oliveira,São José,Google,35-44,2025-06-20
+C0656,Felipe Rocha,Jardim Primavera,iFood,18-24,2025-12-29
+C0657,Renata Moreira,Alto da Boa Vista,Indicação,55+,2026-06-08
+C0658,Bianca Pereira,Jardim Primavera,Instagram,35-44,2026-02-24
+C0659,Vinícius Carvalho,Jardim América,iFood,45-54,2025-08-05
+C0660,Rodrigo Ribeiro,Centro,iFood,55+,2026-08-01
+C0661,Fernanda Almeida,Centro,Indicação,25-34,2026-03-04
+C0662,Sabrina Souza,Vila Industrial,iFood,55+,2025-11-25
+C0663,Camila Lima,Jardim Europa,Instagram,45-54,2026-07-29
+C0664,João Moreira,Jardim Primavera,Instagram,25-34,2025-05-03
+C0665,Eduarda Martins,Jardim Europa,Instagram,25-34,2025-07-30
+C0666,Ana Gomes,Residencial Ipê,Indicação,18-24,2026-07-11
+C0667,Gustavo Souza,Jardim América,Instagram,55+,2026-06-15
+C0668,Vinícius Dias,Centro,Instagram,35-44,2025-05-21
+C0669,Eduarda Santos,Santa Rita,iFood,18-24,2025-12-07
+C0670,Juliana Costa,São José,Instagram,18-24,2025-09-09
+C0671,Igor Carvalho,Vila Nova,Instagram,18-24,2025-12-05
+C0672,Larissa Almeida,Bela Vista,Instagram,35-44,2025-06-10
+C0673,Matheus Carvalho,Jardim Europa,iFood,18-24,2025-06-24
+C0674,Fernanda Ribeiro,Vila Nova,Indicação,25-34,2026-04-19
+C0675,Igor Carvalho,Jardim Primavera,Instagram,25-34,2026-04-02
+C0676,William Pereira,Parque das Flores,Panfleto,25-34,2026-08-05
+C0677,Larissa Moreira,Jardim América,Instagram,18-24,2025-03-12
+C0678,Mariana Lima,Santa Rita,Google,45-54,2025-12-15
+C0679,Leonardo Santos,Alto da Boa Vista,Indicação,35-44,2026-05-07
+C0680,Helena Pereira,Bela Vista,Instagram,35-44,2026-02-26
+C0681,Natália Rocha,Jardim Europa,Instagram,25-34,2026-08-02
+C0682,Igor Dias,Centro,Instagram,18-24,2026-08-08
+C0683,Igor Rodrigues,Bela Vista,Instagram,45-54,2025-01-27
+C0684,Camila Costa,Santa Rita,Instagram,55+,2025-01-10
+C0685,Leonardo Gomes,Jardim Primavera,Indicação,25-34,2026-10-04
+C0686,Bruno Barbosa,Jardim América,Indicação,25-34,2025-12-30
+C0687,Bianca Carvalho,Jardim Europa,Instagram,35-44,2026-10-11
+C0688,João Pereira,Vila Industrial,Indicação,35-44,2025-07-11
+C0689,Carla Rodrigues,Alto da Boa Vista,iFood,45-54,2025-08-23
+C0690,Marcos Souza,Vila Industrial,Panfleto,35-44,2026-04-06
+C0691,Vanessa Teixeira,Bela Vista,Indicação,25-34,2025-10-09
+C0692,Mariana Rocha,Alto da Boa Vista,Instagram,25-34,2026-05-21
+C0693,Beatriz Silva,Vila Industrial,Instagram,25-34,2026-05-08
+C0694,Rodrigo Lima,Bela Vista,Indicação,25-34,2025-04-29
+C0695,Matheus Silva,Jardim Europa,iFood,45-54,2026-05-18
+C0696,Thiago Rocha,Alto da Boa Vista,Panfleto,35-44,2025-07-31
+C0697,Gustavo Costa,Jardim Primavera,iFood,18-24,2026-02-03
+C0698,João Pereira,Vila Industrial,Instagram,35-44,2025-08-27
+C0699,Bianca Costa,São José,iFood,25-34,2026-05-10
+C0700,Larissa Ribeiro,São José,Instagram,18-24,2025-06-29
+C0701,André Moreira,Jardim Primavera,iFood,25-34,2025-09-23
+C0702,Juliana Martins,Jardim Primavera,Google,18-24,2025-11-22
+C0703,Rafael Oliveira,Alto da Boa Vista,Panfleto,25-34,2026-08-01
+C0704,Natália Ferreira,Centro,iFood,25-34,2025-10-14
+C0705,Marcos Ferreira,Jardim América,iFood,55+,2026-10-01
+C0706,João Oliveira,Jardim Europa,iFood,18-24,2026-02-14
+C0707,Natália Araújo,Centro,Instagram,18-24,2025-05-06
+C0708,Gabriel Souza,São José,Instagram,25-34,2025-07-20
+C0709,Bruno Oliveira,Santa Rita,Google,45-54,2026-04-10
+C0710,Bruno Ferreira,Bela Vista,Instagram,35-44,2026-07-20
+C0711,Fernanda Lima,Bela Vista,iFood,35-44,2026-04-29
+C0712,Vanessa Moreira,Centro,Panfleto,35-44,2025-08-10
+C0713,André Rodrigues,Alto da Boa Vista,Instagram,35-44,2025-01-25
+C0714,Vanessa Martins,Bela Vista,iFood,25-34,2025-06-15
+C0715,Renata Lima,Jardim Primavera,Indicação,35-44,2026-08-08
+C0716,Ana Moreira,Vila Nova,iFood,45-54,2025-11-07
+C0717,Rafael Rodrigues,São José,Instagram,25-34,2026-02-17
+C0718,Diego Souza,Vila Nova,iFood,55+,2026-10-07
+C0719,Beatriz Ribeiro,Centro,iFood,35-44,2025-10-19
+C0720,Aline Lima,Vila Nova,Instagram,45-54,2025-04-14
